@@ -1,0 +1,100 @@
+baseURL: https://heitang512.github.io
+
+languageCode: en-us
+title: "HeiTang's Blog"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # Background
+  background: /images/site/background.jpg
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/HeiTang/heitang512.github.io
+
+  # Blog Posts
+  enableBlogPost: true
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: true
+
+  # Provide newsletter configuration. This feature hasn't been implemented yet.
+  # Currently, you can just hide it from the footer.
+  newsletter:
+    enable: true
+  
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  logo:
+    # main: /images/site/main-logo.png
+    # inverted: /images/site/inverted-logo.png
+    favicon: /images/site/favicon.png
+
+  # Configure various features of this theme
+  features:
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+    # Enable and configure blog posts
+    blog:
+      enable: true
+    # Enable & configure "Notes" features
+    notes:
+      enable: true
+
+
+  # Provide footer configuration.
+  footer:
+    enable: true
+    # You can provide your custom footer template using this option.
+    # Put your template in "layouts/partials" folder of your repo.
+    template: footer.html
+    # Show/hide navigation in the footer. Default is "true".
+    navigation:
+      enable: true
+    # Show/hide "Contact Me" section in the footer. Default is "true".
+    contactMe:
+      enable: true
+    # Show/hide credentials section in the footer. Default is "true".
+    credentials:
+      enable: true
+
+    # Show/hide newsletter section in the footer. Default is "true".
+    # Currently, it supports "mailchimp".
+    newsletter:
+      enable: true
+      provider: mailchimp
+      # mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+
+    # Show/hide disclaimer notice in the footer. Default is "false".
+    disclaimer:
+      enable: true
+
+
+
+    

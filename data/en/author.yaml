@@ -1,0 +1,17 @@
+# some information about you
+name: "HeiTang"
+nickname: "Hei Tang"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/heitang512.JPG"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "heitang512@purr.tw"
+
+# some summary about what you do
+summary:
+  - Hi！ ฅ•ω•ฅ
+  - I'm a cat. (^・ω・^ )
+  - A orange tabby. (ฅ'ω'ฅ)
+  - Not fat！ (=｀ω´=)
+

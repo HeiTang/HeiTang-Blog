@@ -1,0 +1,37 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Linux
+  logo: /images/sections/skills/linux.svg
+  summary: "o(^・x・^)o"
+
+- name: Git
+  logo: /images/sections/skills/Git.png
+  summary: "ฅ^•ﻌ•^ฅ"
+  url: "https://git-scm.com/"
+
+- name: 網頁前端
+  logo: /images/sections/skills/html-5.svg
+  summary: "~(=^‥^)ﾉ◎～"
+
+- name: C / C++ / C#
+  logo: /images/sections/skills/c-plusplus.svg
+  summary: "（ฅ＾・ﻌ・＾）ฅ"
+
+- name: Python
+  logo: /images/sections/skills/python.svg
+  summary: "(=´ᆺ｀=)"
+
+- name: Google-Apps-Script
+  logo: /images/sections/skills/google-apps-script.svg
+  summary: "₍˄·͈༝·͈˄*₎◞ ̑̑ᗦ↞◃"
