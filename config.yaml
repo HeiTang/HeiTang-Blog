@@ -34,7 +34,7 @@ params:
   # Background
   background: /images/site/background.jpg
   # GitHub repo URL of your site
-  gitRepo: https://github.com/HeiTang/heitang512.github.io
+  gitRepo: https://github.com/HeiTang/heitang.github.io
 
   # Blog Posts
   enableBlogPost: true
