@@ -1,0 +1,68 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: HITCON Community
+    url: "hitcon.org/"
+    location: Academia Sinica, Taipei, Taiwan
+    # company overview
+    overview: HITCON community is the most technical information security conference in Taiwan.
+  positions:
+  - designation: Activities Section
+    start: 2021
+    responsibilities:
+    - Organize and assist activities.
+  - designation: Administration Section
+    start: 2020
+    responsibilities:
+    - Support each group.
+
+- company:
+    name: Feng Chia University
+    url: "https://www.fcu.edu.tw/"
+    location: Xitun Dist., Taichung City, Taiwan
+    # company overview
+    overview: HITCON community is the most technical information security conference in Taiwan.
+  positions:
+  - designation: Student Sucess Center 
+    start: 2021
+    responsibilities:
+    - Handle related administrative affairs.
+  - designation: Office of Information Technology
+    start: Aug 2019
+    end: July 2021
+    responsibilities:
+    - Help troubleshoot network issues.
+
+- company:
+    name: HackerSir
+    url: "https://www.facebook.com/HackerSir.tw/"
+    location: Xitun Dist., Taichung City, Taiwan
+    # company overview
+    overview: HackerSir is an information security club.
+  positions:
+  - designation: Executive Secretary
+    start: Jun 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Feb 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Assist the president in organizing community affairs.
+    - Management and maintenance of community information.
+  - designation: Management Trainee
+    start: Jan 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Jun 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - In-house training.
+
