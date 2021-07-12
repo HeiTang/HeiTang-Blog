@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+# - name: All
+#   filter: "all"
+# - name: Professional
+#   filter: "professional"
+# - name: Academic
+#   filter: "academic"
+# - name: Hobby
+#   filter: "hobby"
+
+# your projects
+projects:
+- name: MailCat
+  logo: /images/sections/projects/kubernetes.png
+  role: Owner
+  timeline: "July 2021"
+  repo: https://github.com/HeiTang/MailCat # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary:  Auto Gmail Rules Manager.
+  tags: ["Gmail", "Google-Apps-Script"]
+
+- name: Straight A Orders Notify
+  logo: /images/sections/projects/tensorflow.png
+  role: Owner
+  timeline: "Jun 2021"
+  repo: https://github.com/HeiTang/StraightA_Orders_Notify
+  summary:  Straight A Product Status Tracking .
+  tags: ["Python", "Email"]
+
+- name: HackerSir-MeetCreate
+  role: Owner
+  timeline: "July 2020 - Dec 2020"
+  summary: Auto create events on the calendar.
+  tags: ["Google-Apps-Script","Line Notify"]
+
+- name: FCU-CourseDump
+  logo: /images/sections/projects/no-code.png
+  role: Owner
+  timeline: "Mar 2020 - Present"
+  repo: https://github.com/HeiTang/FCU-CourseDump
+  summary: Dump courses offered in each year.
+  tags: ["Python", "Data", "JSON"]
+
+- name: ZYXEl-CTF-WriteUp
+  logo: /images/sections/projects/no-code.png
+  role: Owner
+  timeline: "Mar 2020"
+  repo: https://github.com/HeiTang/ZYXEl-CTF-WriteUp
+  summary: 2020 ZYXEl CTF WriteUp.
+  tags: ["ZYXEl", "CTF", "WriteUp"]
+
+- name: AniCat
+  logo: /images/sections/projects/no-code.png
+  role: Owner
+  timeline: "Mar 2020 - May 2020"
+  repo: https://github.com/HeiTang/AniCat
+  summary: Anime1 Video Download.
+  tags: ["python", "M3U8", "MP4"]
+
+- name: HackerSirBot
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Jan 2020"
+  repo: 
+  summary: Cadre Service.
+  tags: ["Flask","Line Bot"]
