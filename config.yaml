@@ -26,6 +26,9 @@ outputs:
   - RSS
   - JSON
 
+# Enable Google Analytics
+googleAnalytics: G-6V3RJ73HQL
+
 # Enable global emoji support
 enableEmoji: true
 
@@ -65,7 +68,7 @@ params:
       enable: true
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
 
   # Provide footer configuration.
