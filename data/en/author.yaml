@@ -1,6 +1,6 @@
 # some information about you
 name: "HeiTang"
-nickname: "Hei Tang"
+nickname: "HeiTang"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: ""
 image: "images/author/heitang512.JPG"
