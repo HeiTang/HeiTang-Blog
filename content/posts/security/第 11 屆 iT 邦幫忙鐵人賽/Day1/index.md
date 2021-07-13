@@ -1,6 +1,7 @@
 ---
 title: "『 Day 1 』前言 & 期許" 
 date: 2019-09-17T00:16:40+08:00
+hero: security.jpg
 menu:
   sidebar:
     name: "『 Day 1 』前言 & 期許"
