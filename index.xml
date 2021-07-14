@@ -99,7 +99,22 @@ No content shown here is rendered, all content is based in the template layouts/
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description></item><item><title>Introduction</title><link>https://heitang.github.io/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://heitang.github.io/posts/introduction/</guid><description>Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.</description></item><item><title>『 Day 1 』前言 &amp; 期許</title><link>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day1/</link><pubDate>Tue, 17 Sep 2019 00:16:40 +0800</pubDate><guid>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day1/</guid><description>自我介紹 我是一名大二資工系的學生，目前在某資安社團擔任幹部。時常幻想自己是一隻貓的貓，平時喜歡喵喵叫(?
+Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.</description></item><item><title>『 Day 2 』認識 CTF</title><link>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day2/</link><pubDate>Wed, 18 Sep 2019 00:16:14 +0800</pubDate><guid>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day2/</guid><description>CTF 簡介 Capture The Flag
+駭客的搶旗遊戲
+學習資訊安全攻擊/防禦的競賽
+利用執行在目標電腦中的應用程式漏洞取得Flag
+解密藏在檔案或程式中的 Flag
+Flag 通常就是一串文字
+CTF 賽制 Jeopardy 透過主辦方出題目，會有各種類型的題目，每種類型可能會有數道題目，越難題目分數越高
+線上賽居多，參與隊伍數、各隊人數較無限制
+「CTF 題目類型」的介紹主要也以這個為主。
+Attack &amp;amp; Defense 各隊參賽者有自己的主機，主機上執行著各種有漏洞的服務。
+Attack
+透過分析主機上的服務，找到漏洞利用方式並撰寫攻擊程式 (exploit)，入侵其他參賽者維護的主機。
+Defense
+修補自己主機上的漏洞，防止他人偷取你的 Flag。
+偷取 Flag 遞交到主辦單位記分板可獲得額外分數，如果成功守護自己的 Flag 也會有分數，但若自己的 Flag 被偷走則拿不到分數。
+King of the Hill 每個隊伍一開始不會擁有主機，而是要把主辦方提供的主機打下來然後寫入自己的 Flag，例如：改首頁。 同時參賽者要守護已經打下來的主機，不被其他隊伍搶走，每個回合依照擁有主機的數量進行加分，佔領時間愈長，分數愈高。</description></item><item><title>『 Day 1 』前言 &amp; 期許</title><link>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day1/</link><pubDate>Tue, 17 Sep 2019 00:16:40 +0800</pubDate><guid>https://heitang.github.io/posts/security/%E7%AC%AC-11-%E5%B1%86-it-%E9%82%A6%E5%B9%AB%E5%BF%99%E9%90%B5%E4%BA%BA%E8%B3%BD/day1/</guid><description>自我介紹 我是一名大二資工系的學生，目前在某資安社團擔任幹部。時常幻想自己是一隻貓的貓，平時喜歡喵喵叫(?
 入坑緣起 在 HITCON 結束的回程途中，接到某位我在中區聚認識的..貓？(就是團長啦)。總之，後來就被推坑啦，我也順便抓著更多的夥伴一起跳了！ 推坑三步驟：專門挖坑的朋友 -&amp;gt; 拉著更多陪你跳的朋友 -&amp;gt; 大家一起跳ㄅ
 廢文的大致方向 沒有特定想寫的方向，偶爾寫個課程筆記、資安筆記或是最近在看的書之類，目前正在看「白帽子講 Web 安全」和「Kali Linux」，有人有其他推薦的書嗎 ～（敲碗
 期許與展望 目前手上還有社團的活動與新生茶會要舉辦，也剛好卡到鐵人賽的時間。但我希望自己能在這忙碌的生活中，繼續培養自己學習的習慣，不過我並不打算寫太難的東西，我怕我一直鑽牛角尖在問題上XD</description></item><item><title>Search Results</title><link>https://heitang.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heitang.github.io/search/</guid><description>This file exists solely to respond to /search URL with the related search layout template.
