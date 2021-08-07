@@ -1,5 +1,4 @@
-baseURL: https://heitang.github.io
-
+baseURL: https://blog.purr.tw
 languageCode: en-us
 title: "HeiTang's Blog"
 theme: "toha"
